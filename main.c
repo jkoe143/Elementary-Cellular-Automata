@@ -1,9 +1,3 @@
-/*-------------------------------------------
-Project 1:Elementary Cellular Automaton
-Course: CS 211, Summer 2024, UIC
-System: Advanced zyLab system
-Author: Jason Park
--------------------------------------------*/
 #include <stdio.h>
 #include <stdbool.h> 
 
